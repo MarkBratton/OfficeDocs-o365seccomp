@@ -89,7 +89,7 @@ For more information, see:
 
 ## Get Office 365 ATP
 
-Office 365 ATP Plan 2 is included in Office 365 Enterprise E5, Office 365 Education A5, and Microsoft 365 Business. If your subscription does not include Office 365 ATP, you can potentially purchase ATP as an add-on. To learn more, see the following resources:
+Office 365 ATP Plan 2 is included in Office 365 E5 and Microsoft 365 E5 Security (and equivalent plans for Education and Government). If your subscription does not include Office 365 ATP, you can potentially purchase Office 365 ATP  as an add-on. To learn more, see the following resources:
 
 - See [Office 365 Advanced Threat Protection (ATP) availability](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description#office-365-advanced-threat-protection-atp-availability) for a list of subscriptions that include ATP plans.
 
